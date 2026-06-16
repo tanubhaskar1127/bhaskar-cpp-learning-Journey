@@ -1,5 +1,9 @@
 # 🚀 Bhaskar C++ Journey
 
+![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Welcome to my C++ learning repository.
 
 This repository documents my journey of learning C++ from the fundamentals to advanced concepts. It serves as a collection of practice programs, experiments, problem-solving exercises, and projects developed throughout the learning process.
